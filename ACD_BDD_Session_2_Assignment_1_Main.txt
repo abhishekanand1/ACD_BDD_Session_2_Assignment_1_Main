@@ -1,0 +1,10 @@
+1. b.Map and Reduce
+2. a. blocks
+3. c.HDFS
+4. a. Job Tracker, Task Tracker, Namenode & Datanode
+5. b. Masters
+6. a. name node
+7. c. Checkpoint Node
+8. d. b&c
+9. b. Data nodes & Node Manager
+10. b. datanodes
